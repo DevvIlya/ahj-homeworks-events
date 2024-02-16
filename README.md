@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/DevvIlya/ahj-homeworks-events/actions/workflows/web.yml/badge.svg)
 
+(Ссылка на решение) [https://devvilya.github.io/ahj-homeworks-events/]
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
