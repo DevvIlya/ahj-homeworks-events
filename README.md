@@ -2,7 +2,7 @@
 
 ![CI](https://github.com/DevvIlya/ahj-homeworks-events/actions/workflows/web.yml/badge.svg)
 
-(Ссылка на решение) [https://devvilya.github.io/ahj-homeworks-events/]
+[Ссылка на решение](https://devvilya.github.io/ahj-homeworks-events/)
 
 Правила сдачи задания:
 
